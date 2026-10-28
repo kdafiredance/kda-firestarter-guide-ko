@@ -1,0 +1,8 @@
+site_name: FIRESTARTER 카이사 보깅 AI 영상 가이드
+site_description: 사진 한 장으로 K/DA FIRESTARTER 카이사 보깅 춤 영상을 만드는 방법 (팬 제작 가이드)
+docs_dir: docs
+theme:
+  name: readthedocs
+  language: ko
+nav:
+  - 가이드: index.md
